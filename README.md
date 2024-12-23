@@ -1,3 +1,3 @@
 # Java-Script-Code
 
-Java script Function ->
+Java script Function()
